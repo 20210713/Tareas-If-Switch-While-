@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Calculadora(if)\Calculadora(if)\bin\Debug\netcoreapp3.1\Calculadora(if).exe
+C:\Users\User\source\repos\Calculadora(if)\Calculadora(if)\bin\Debug\netcoreapp3.1\Calculadora(if).deps.json
+C:\Users\User\source\repos\Calculadora(if)\Calculadora(if)\bin\Debug\netcoreapp3.1\Calculadora(if).runtimeconfig.json
+C:\Users\User\source\repos\Calculadora(if)\Calculadora(if)\bin\Debug\netcoreapp3.1\Calculadora(if).runtimeconfig.dev.json
+C:\Users\User\source\repos\Calculadora(if)\Calculadora(if)\bin\Debug\netcoreapp3.1\Calculadora(if).dll
+C:\Users\User\source\repos\Calculadora(if)\Calculadora(if)\bin\Debug\netcoreapp3.1\Calculadora(if).pdb
+C:\Users\User\source\repos\Calculadora(if)\Calculadora(if)\obj\Debug\netcoreapp3.1\Calculadora(if).csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Calculadora(if)\Calculadora(if)\obj\Debug\netcoreapp3.1\Calculadora(if).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Calculadora(if)\Calculadora(if)\obj\Debug\netcoreapp3.1\Calculadora(if).AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Calculadora(if)\Calculadora(if)\obj\Debug\netcoreapp3.1\Calculadora(if).AssemblyInfo.cs
+C:\Users\User\source\repos\Calculadora(if)\Calculadora(if)\obj\Debug\netcoreapp3.1\Calculadora(if).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Calculadora(if)\Calculadora(if)\obj\Debug\netcoreapp3.1\Calculadora(if).dll
+C:\Users\User\source\repos\Calculadora(if)\Calculadora(if)\obj\Debug\netcoreapp3.1\Calculadora(if).pdb
+C:\Users\User\source\repos\Calculadora(if)\Calculadora(if)\obj\Debug\netcoreapp3.1\Calculadora(if).genruntimeconfig.cache
